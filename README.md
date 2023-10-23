@@ -4,6 +4,6 @@ Play Audio Sequence Javascript
 ##usage
 <script src="path/to/audio_sequence.js"></script>
 <br />
-<script>
-  playSounds(['path/to/sound1.mp3','path/to/sound2.mp3','path/to/sound3.mp3']);
+<script><br />
+  playSounds(['path/to/sound1.mp3','path/to/sound2.mp3','path/to/sound3.mp3']);<br />
 </script>
